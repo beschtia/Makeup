@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Makeup</string>
+    <string name="enter_brand">Enter brand</string>
+    <string name="search">Search</string>
+</resources>
